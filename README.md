@@ -8,4 +8,5 @@ atrendio los fundamentos de git y git hab;
 * trucos 
 *multiplataforma 
 *crado por el mas pro 
+*con ejemplos de todo 
 
