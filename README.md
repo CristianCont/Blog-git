@@ -7,4 +7,5 @@ atrendio los fundamentos de git y git hab;
 * buenas practicas 
 * trucos 
 *multiplataforma 
+*crado por el mas pro 
 
