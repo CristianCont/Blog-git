@@ -9,4 +9,4 @@ atrendio los fundamentos de git y git hab;
 *multiplataforma 
 *crado por el mas pro 
 *con ejemplos de todo 
-
+*con gusto cundo quiera y como quiera 
